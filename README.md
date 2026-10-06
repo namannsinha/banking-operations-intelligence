@@ -1,0 +1,1 @@
+BRAIN is an AI-powered banking operations intelligence platform designed to monitor banking products, detect anomalies, investigate potential root causes, recommend actions, and learn from historical incidents.
